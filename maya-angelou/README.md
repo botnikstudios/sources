@@ -1,0 +1,1 @@
+Text from a PDF conversion of a Maya Angelou collection. There may still be a few odd lines of miscellaneous characters here and there, though I've done a couple of passes to get rid of the most egregious conversion artifacts.

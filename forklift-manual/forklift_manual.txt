@@ -1,0 +1,597 @@
+Introduction
+What this Handbook is About
+this handbook is about the skills and knowledge required to safely operate a forklift. the handbook is for
+either a light forklift with an empty weight of not more than 7.5 tonnes, or a heavy forklift with an empty
+weight is of more than 7.5 tonnes. the training course for both types of forklifts is the same. the licence
+issued will depend on the forklift used for the licence tests at the completion of the course.
+Why Read this Handbook
+this handbook tells you about some of the legal requirements for drivers of light and heavy
+mechanical equipment (forklift) in dubai, along with important safety information, background
+material, technical information and safe operating procedures.
+the knowledge test that you must pass to drive a forklift is based on the information in this
+handbook. You need to understand it to pass your test.
+How to use this Handbook
+the table of Contents will show you where to find each section. At the end of each section,
+there is a section called test Yourself Questions to help you check if you have understood
+important issues.
+
+How You Will Learn
+Learning to operate a forklift is like any other complex task. If you break the task into small, manageable pieces and do not try to
+learn too many things at once, it is much easier. You will:
+develop the knowledge and skill needed to operate forklifts
+be shown how to drive and control forklifts safely
+practise and correct your driving techniques in an increasingly complex set of conditions, so that you are capable of successfully
+undertaking your licence test.
+The length of each stage of learning depends on the amount of practice you have had. Be sure you are confident and competent
+before moving on to the next stage. Your Instructor will advise you when you are ready to move on.
+How fast and how much you learn will depend on you. You should learn by:
+reading this handbook carefully
+attempting all the questions and activities in the handbook
+observing the operations being performed by your Instructor and on your work site
+asking questions
+practising the new skills included in this handbook
+undertaking the assessment tasks on completion of the training.
+If there is anything in this handbook you do not understand or do not agree with, do not be afraid to ask your Instructor for
+assistance.
+
+Symbols
+Graphic symbols are used to guide your learning and identify types of information.
+the meaning of each symbol is as follows:
+Caution You must follow instructions to avoid damage to products, a process or
+surroundings.
+Safety You must follow safety procedures or wear protective clothing.
+Test Yourself Questions Check that you have understood the information in this section by
+answering the questions at the end of each section.
+
+Part 1: Licence to Operate a Forklift
+eligibility Criteria
+the eligibility criteria for a licence to operate a forklift are set out below:
+You may drive a Forklift if you:
+are over 20 years of age
+have passed an eye test
+have undertaken Forklift training until competency is shown and have passed an appropriate
+ knowledge test
+have passed a practical test
+pay the appropriate fees.
+if you meet these criteria, you will be issued with either:
+a Light Tractor and Mechanical Equipment licence if you have been tested in a forklift with
+ an empty weight of not more than 7.5 tonnes, which permits you to operate light mechanical
+ equipment only or
+a Heavy Tractor and Mechanical Equipment licence if you have been tested in a forklift
+ with an empty weight of over 7.5 tonnes, which permits you to operate both light and
+ heavy mechanical equipment.
+Learning to Operate a Forklift
+until you get your forklift licence, you may only drive a forklift if you are under the supervision
+of an instructor who holds a valid licence for the type of vehicle you are driving.
+
+Part 2 : Types and Components of Forklifts
+types of Forklifts
+A forklift is a vehicle similar to a small truck that has two metal forks on the
+front used to lift cargo. the forklift operator drives the forklift forward until
+the forks push under the cargo, and can then lift the cargo several feet in
+the air by operating the forks. the forks, also known as blades or tines,
+are usually made out of steel and can lift up to a few tonnes, depending
+on the capacity of the forklift and the forks.
+Forklifts are used to:
+transport loads between areas
+stack heavy objects
+load and unload vehicles.
+there are a wide range of forklifts, including pedestrian
+operated and ride on forklifts.
+Forklifts vary in size, ranging from one tonne capacity for
+general warehouse type work, up to 50 tonne capacity for
+shipping container work.
+
+There are two main types of motors used in forklifts:
+Internal combustion motors which may be fuelled by petrol, diesel or liquid petroleum gas (LPG). internal combustion powered
+forklifts must not be used in confined spaces, as people working in the confined space may be overcome by the fumes.
+Battery powered electric motors. Gasoline or propane forklifts are sometimes stronger or faster than electric forklifts, but they
+are more difficult to maintain. electric forklifts are great for warehouse use because they do not give off dangerous fumes like gas
+powered machines.
+Batteries contain sulphuric acid which is very corrosive to human tissue and the surrounding environment.
+When you handle a battery you should wear protective clothing, including:
+eye protection
+gloves
+acid resistant boots
+face mask
+protective apron.
+You will need to be careful when lead acid batteries are being recharged because it is possible for a level of
+hydrogen to build up that will explode if a spark or naked flame is present.
+You should take the following steps to reduce the risk of hydrogen building up and creating an explosion:
+only recharge batteries in designated well ventilated recharging areas
+make sure there are no flames or sparks around
+use the isolation switch to ensure that the forklift circuit is open before disconnecting the battery terminals, so no
+ sparking occurs
+metal tools or fittings must not come in contact with the terminals, as they may create a spark.
+
+Forklifts are most often used in warehouses, but some are meant to be used outdoors. the
+vast majority of rough terrain forklifts operate on gasoline, but some use diesel or natural
+gas. Rough terrain forklifts have the highest lifting capacity of all forklifts and have heavy
+duty tyres (like those found on trucks), making it possible to drive them on uneven surfaces
+outdoors.
+Counter Balanced and Non-counter Balanced Forklifts
+Forklifts are divided into two types based on how they are able to remain stable when they are loaded.
+these types are Counter Balanced and Non Counter Balanced forklifts.
+Counter Balanced Forklifts have the weight of the load carried
+outside the wheel base and are counter balanced by the weight
+of the forklift.
+in counter balanced forklifts, the weight of the rear of the truck
+counterbalances the weight of the load being carried at the front
+of the forklift. the front wheels can act as a pivot point on which
+the forklift and load can tip. the greater the weight of the counter
+balance of the forklift, then the heavier the load that can be
+lifted. Heavier loads can be lifted if the counter balance is further
+back in the forklift.
+Non-counter balanced forklifts have the load carried inside the wheel base of the forklift. Non counter balanced forklifts
+keep their stability by having the wheels mounted on arms that are on either side of the load when it is being picked up
+and transported. these are often called straddle lift forklifts.
+
+Components of Forklifts
+All forklifts have similar components but these may be located in different places, depending on the type of forklift:
+Class 1 forklifts are electric-motor rider trucks, either stand-up operator or seated three-wheel units. Rider units are
+counterbalanced and may have cushion or pneumatic wheels.
+Class 2 forklifts are electric-motor trucks for narrow aisle or inventory stock/order picking applications. They may have extra reach
+or swing-mast functions.
+Class 3 forklifts are electric-motor trucks, either walk-behind or standing-rider operated. Automated pallet lift-trucks and high-lift
+models are often counterbalanced.
+Class 4 forklifts are rider fork trucks, with cabs and seated controls, internal combustion engines, and solid or "cushion" tyres.
+Class 4 forklifts are sit-down rider, tow tractor lifts. They are supplied with electric or internal combustion engines.
+Class 5 forklifts are rider fork trucks, with cabs and seated controls, internal combustion engines and pneumatic tyres. They are
+typically counterbalanced.
+Class 6 forklifts are designed for use on rough terrain. Typical applications include agriculture, logging and construction.
+
+these are the key components of a forklift that you will need to know:
+A mast
+B lift cylinder
+C load backrest that prevents the load falling on the operator
+D fork carriage
+E forks
+F tilt cylinder
+G overhead cage
+H driver seat
+I drive wheels and axle
+J steering axle and wheels
+K counter balance
+L warning light.
+Make sure you know where these are
+located on the type of forklift you will
+be operating and how to operate them.
+
+Forklift Controls
+the operating panel of forklift trucks provides the operator with the following features:
+Inching brake pedal (All terrain models) - this brake pedal is located on the left side of the
+steering column and works as a clutch pedal because of the inching valve built in the hydraulic
+system. When the pedal is depressed slightly, the engine power is disconnected. When
+depressed further, brake begins to operate.
+(NOte: do not overuse the inching brake pedal. it may cause automatic transmission oil to
+overheat or the clutch to slip if it is used as a footrest or used for a long time.)
+Brake Pedal - the lift truck is equipped with a conventional brake pedal as well as an inching
+brake pedal. the conventional pedal is located on the floor to the right of the steering column.
+Accelerator Pedal - the accelerator pedal is located in a convenient position to the right of the
+steering column.
+Forward- Reverse Lever - the "Forward -Reverse" Lever is used to make a directional change.
+to move forward, push the lever forward. to back up, pull the lever backwards through
+NeutRAL.
+Gear Shift Lever - the "Gear Shift" lever permits selection of different gear ratios. Pushing
+the lever forward places the transmission in 1st speed position. the travel speed should be
+selected as required to meet the travel conditions and load. Shift these levers to any desired
+position with the clutch pedal depressed all the way.
+Lift Lever - used to lift and lower the forks. Push forward to lower, pull backward to lift. the
+lifting speed can be adjusted by varying the engine speed and the distance the lever is moved.
+The lowering speed can be adjusted only by the distance the lever is moved.
+Tilt Lever - used to tilt the mast forward and backward. Push forward to tilt forward, pull
+backward to tilt backward.  The forward or backward tilting speed can be adjusted by the
+engine speed and the distance that the lever is moved.
+
+Mast and Lifting Mechanism the mast is made of two pieces. the outer
+piece is connected to the chassis. A pulley is
+used to extend the mast.
+When the inner part of the mast moves up or
+down, the forks move with double speed in
+the same direction.
+they are linked with a link
+chain to the fixed part of the mast.
+the chain
+goes up and over the wheels on the extending
+part, down to the forks.
+the whole lifting
+mechanism just needs one motor. With  a
+second motor, the mast can be tilted forward
+and backwards.
+this is used to move the
+centre of gravity closer to the machine, when
+lifting heavy loads.
+Manufacturer's
+data Plate
+You will need to know how to locate the
+manufacturer's data plate on a forklift to find
+out what the load capacity for your forklift is
+and other operating limits.
+
+types and use of different tyres
+Forklifts intended for different uses need special kinds of tyres. the most common
+types of forklift tyres are pneumatic, solid and polyurethane.
+Forklift tyres are usually either press-on or standard. Press-on tyres are easier to
+put on the forklift, but they may not stand up to some of the more difficult outdoor
+terrain as well as standard tyres. Standard tyres are put on the wheel in the same
+way as car tyres. Press-on tyres are usually made for electric forklifts or other
+forklifts designed for primarily indoor use.
+Pneumatic forklift tyres are very similar to heavy-duty truck tyres. they are filled
+with air, have a thick, deep tread, and are made of strong rubber that resists
+wearing down. Pneumatic tyres extend the operating life of the forklift by providing
+an air cushion between the forklift and the terrain. Most rough terrain forklifts use
+pneumatic tyres due to their rugged durability and long lifespan.
+Solid rubber tyres are an alternative to pneumatic tyres. they are the same, except
+that they are solid rather than filled with air. they will not pop or go flat like
+pneumatic tyres, but they do not provide an air cushion either. they are very long
+lasting, but they do not extend the life of the forklift like pneumatic tyres. Solid
+forklift tyres are great for indoor use or light outdoor use. they are not recommended
+for long-term rough terrain use.
+Polyurethane forklift tyres are usually used on indoor forklifts. they are usually
+pressed on to the wheel, which is the easiest way to apply a tyre. Polyurethane
+forklift tyres are great for indoor use, because they provide the right amount of
+traction and have a low rolling resistance that prolongs their lifespan. Polyurethane
+forklift tyres are perfect for use on electric forklifts.
+
+Rear Wheel Steering
+Forklifts have rear wheel steering for greater manoeuvrability, which can
+confuse the inexperienced operator.
+When travelling forward on a forklift and turning the steering wheel, the speed
+of the rear end swing will be three times the forward speed of the forklift. this
+sideways movement creates a hazard, particularly for pedestrians.
+When you turn a car around a corner the steering will self centre; on a forklift this will not occur. in fact
+the turning circle may decrease, therefore, it is imperative that one hand be on the steering wheel at all
+times and speeds be kept at a safe level.
+if fitted with power steering, only turn the steering wheel when moving and never turn off the machine while
+it is still moving. this can cause total loss of steering.
+
+Forklift Attachments
+These are the major attachments that can be used with a forklift and the conditions for use:
+a jib
+ a drum clamp
+ a long spike.
+the attachments must be the correct type for the forklift and the load to be lifted. Check the manufacturer's data plate to make
+sure the attachments can be used.
+Jibs
+Forklift jibs are used to lift and position heavy loads in the same way cranes do.
+Forklift Economy Jib Forklift Extension Jib Forklift Fixed Jib
+Suitable for all styles of forklifts   Fully adjustable reach and height   Suitable for all styles of forklifts
+500kgs SWL at 2800mm 1000kgs SWL at 1100mm 750kgs SWL at 1800mm
+Note: the Safe Working Load (SWL) will vary according to forklift capacity, so you will need to check this before use.
+
+Drum Clamp
+the drum Clamp is used for lifting and emptying 250 litre drums.
+the driver pulls the drum chord from the driver's seat to empty
+the drum.
+Spike
+Spikes are used to extend the use of the forklift and are easily
+fitted over standard forks.
+
+Part 3: Forklift Safety
+Forklift Speed
+the speed at which you travel in a forklift is determined by:
+The size of the load you are carrying. Heavier loads must be moved
+ slowly.
+The layout of the workplace. You must travel at a speed at which you
+ can stop if there is pedestrian or other traffic crossing your path.
+Speed restriction signs. Always keep to speeds that are indicated
+ by signs or have been set down by company policy and procedures.
+
+ Refuelling the Forklift
+The refuelling of a forklift can be particularly dangerous. The fumes from Petrol and LPG are very explosive. All
+refuelling must be carried out in a well ventilated area away from the chance of any sources of ignition occurring.
+The engine must not be running during refuelling, as the fuel could be ignited.
+If a fuel leak occurs or is suspected, immediately stop the machine, tag the area around the leak and report the
+leak to the supervisor. The forklift must not be used until the leak is fixed.
+
+Safe Working Practices
+What should an operator do when operating the forklift?
+Know the recommended load limit of the forklift and never exceed it.
+Know how to assess the weight of the load to be lifted.
+do a visual and operational check of the forklift at the start of the shift.
+Check for adequate overhead clearance before raising the load.
+Operate the equipment smoothly when stopping, starting, lifting and tilting.
+Know the blind spots of the lift truck with and without a load.
+Keep pedestrians away from a forklift in operation.
+Stop when anyone crosses the route being travelled. Lower the load to the floor, and wait until clear.
+Operate only as fast as conditions safely permit.
+Wear leather gloves when moving or shifting loads.
+Wear fully laced safety boots to give impact protection when moving loads or skids and to provide ankle support
+when mounting and dismounting lift truck.
+Remain alert and prepare for the unexpected.
+Note anything that affects the normal operation of the forklift and tell the supervisor immediately.
+Keep hands, arms, head, feet and legs inside the confines of a moving forklift.
+Stay in the truck in case of overturn.
+Report any collisions, damage or near-miss incidents to a supervisor immediately.
+
+daily Pre-drive inspections
+You should inspect the forklift truck every day before using or before each shift to make sure it is safe to be used.
+You should carry out a visual check ("circle" check) before starting the forklift. After completing the visual pre-start check, you
+should do an operational pre-start check.
+The visual pre-use check:
+General condition and cleanliness.
+That the floor is clear of objects that could cause an accident.
+that other workers or visitors in the area will be safe.
+doorways are large enough to fit through.
+Location of dangerous goods.
+Other equipment working in the area.
+Overhead to make sure there are no obstructions.
+Nearby objects to avoid as you drive away.
+Fire extinguisher is present and charged.
+engine oil level, fuel level, radiator water level (LPG, gas and diesel forklifts).
+Battery is fully charged; check cables for exposed wires; battery plug connections not loose, worn or dirty; vent caps not clogged;
+electrolyte levels in cells; hold-downs or brackets to keep battery securely in place.
+Bolts, nuts, guards, chains, or hydraulic hose reels are not damaged, missing or loose.
+Wheels and tyres for wear, damage and air pressure, if pneumatic tyres.
+Forks are not bent; no cracks present; positioning latches are in good working condition; carriage teeth not broken, chipped or
+worn.
+Chain anchor pins are not worn, loose or bent.
+
+Fluid Leaks - no damp spots or drips.
+Hoses are held securely; not loose, crimped, worn or rubbing.
+Horn is working and loud enough to be heard in working environment; other warning devices
+operational.
+Lights - head lights and warning lights operational.
+Where possible, any hazard should be removed and guards or barricades with appropriate safety
+signs used to protect people from the hazard. Other measures that could be used include use of a flag
+person to warn of dangers and control movement and use of the horn and other warning devices.
+
+The pre-start check:
+Foot Brake - that pedal holds and unit stops smoothly.
+Parking Brake -that brake holds against slight acceleration.
+deadman Seat Brake - that brake holds when operator rises from seat.
+Clutch and Gearshift  - shifts smoothly with no jumping or jerking.
+dash Control Panel - that all lights and gauges are operational.
+Steering - moves smoothly.
+Lift Mechanism - operates smoothly (check by raising forks to maximum height
+then lowering forks completely).
+tilt Mechanism - moves smoothly and holds (check by tilting mast all the way
+forward and backward).
+Cylinders and Hoses - not leaking after above checks.
+Listen for any unusual sounds or noises.
+After start up:
+Check that all warning devices operate (horn, indicator lights, rear and brake lights and the reverse alarm).
+Mast - check that the mast tilts forward and back correctly and that the mast extends.
+Report any problem identified in daily check to the supervisor immediately.
+
+Part 4: Forklift Operation
+Mounting and dismounting
+Mounting and dismounting are the major causes of personal injury, so you should:
+Always use the hand holds and steps that have been provided by the manufacturer for safe entry and
+ exit.
+Keep three points of contact (both hands and one foot or both feet and one hand) at all times and
+ always face the machine for safe entry or exit.
+Do NOT use the controls as hand holds for entry or exit.
+Do NOT jump on or off any machine. NEVER mount or dismount a moving machine.
+Be careful when conditions are wet or slippery. Ensure all steps and platforms are free of mud
+ and scrape boots before mounting the machine.
+
+ Start-up Procedure
+You should follow this procedure:
+Seatbelt
+Always be seated when starting the machine with seatbelt fastened.
+Park Brake
+Check that park brake is engaged.
+Levers and Controls
+Check that transmission control lever is in neutral position and safety locks on (if fitted)
+and all attachment controls are in the neutral position.
+Throttle Control
+Check that the throttle control or accelerator pedal is pushed past any constriction that
+may be fitted and is in the low idle position.
+Starting the Engine
+turn the ignition switch to start the engine. if it fails to start within approximately 10
+seconds, allow the starter to cool down and try again. in cold conditions pre-heating may
+be required (refer to operator's manual for procedures on using Glow Plugs on diesel
+engines).
+
+Gauges
+Check all gauges for correct operation.
+Warm up
+Allow the engine and components to warm up to operating temperature for approximately 5
+minutes before operating.
+during this period operate all attachment controls checking for correct operation, unusual noises
+and any vibrations.
+Re-check all gauges, horn and warning lights for correct operation.
+Safety Check
+ensure that the area is clear of all personnel and equipment before moving.
+
+Moving Procedure
+Raise all lowered attachments just clear of the ground (200-300 mm).
+Release park brake and select forward or reverse.
+Check that the direction of travel is clear.
+On entering or leaving a confined space, sound the warning device to warn any personnel of the machine movement.
+test brakes and steering for correct operation before moving onto roadways and into operating cycles.
+Maintaining Control When Travelling
+tilt loads backwards.
+travel with forks as low as possible from the floor and tilted back.
+Match speed to driving, load and workplace conditions.
+Obey posted traffic signs.
+decrease speed at all corners, sound horn and watch the swing of both the
+rear of the lift truck and the load.
+Watch for pedestrians.
+Avoid sudden stops.
+travel in reverse when a load blocks your vision and always look in the
+direction of travel.
+Check for adequate overhead clearance when entering an area or when
+raising the forks.
+Watch out for the following dangers on the floor or roadway: oil spots, wet spots, loose objects, holes, rough surfaces, people
+and other vehicles.
+Maintain a safe working limit from all overhead power lines.
+
+Steering the Machine to Maintain Control
+You will need to do the following to make sure you can keep
+control of the forklift:
+the load should be carried by the front wheels.
+turn with the rear wheels.
+do not turn a lift truck steering wheel sharply at fast
+speeds.
+do not overload a lift truck. it can cause a loss of
+steering control.
+do not add extra weight to a counterweight to improve
+steering.
+Maintaining Control When Driving in Reverse
+Follow this procedure:
+Face the rear.
+Sound horn before moving.
+Go slowly.
+Stop when vision is limited or blocked. Sound the horn
+and go slowly.
+You will need to practice driving the forklift using the steps
+as set out above. Allow as much practice as is necessary
+to ensure you can competently operate the forklift before
+attempting loading and un-loading.
+
+Parking the Machine
+Park on level ground.
+Keep well clear of emergency exits and allow clear access to fire fighting equipment and refuelling points.
+Lower all raised attachments making sure that the forktips are touching the ground.
+Place all attachment control levers in the neutral or hold position.
+Do not allow lift chains to go slack, as they may jump clear of the top carrier rollers.
+Place the transmission and forward reverse levers into the neutral position and apply any safety locks.
+Apply park brake.
+If it is an LPG powered forklift, turn off the fuel isolating valve as this prevents a build up of explosive gases prior to starting up
+again.
+
+Loading the Forklift Truck
+The most important safety
+consideration when operating a
+forklift is the stability of the forklift
+when it is loaded.
+If the load on the forklift causes it to
+become unstable, it may tip forward
+or tip sideways.
+It is essential that the load on the
+pallet is stable and well stacked
+before it is lifted and moved.
+Make sure the pallet is in good order.
+Broken pallets should not be used. The load may need to be
+restacked if the pallet is broken or appears unsafely loaded.
+The load should have a centre of gravity that is:
+ low as possible in the load
+ towards the back of the load
+ centred across the load.
+To make sure that the load is stable, heavy objects should be
+placed at the bottom of the load and to the rear of the load.
+Use strapping to secure the load if there is a chance of objects
+falling off.
+No part of the load should extend beyond the back rest of
+the carriage, unless it cannot possibly slide back towards the
+driver.
+
+Tilting Masts
+Most forklifts with extendable masts will be able to tilt the mast back:
+By tilting the mast back, the combined centre of gravity is moved away from the front axles and back inside the stability triangle.
+thus tilting the mast of the forklift back improves the stability of the forklift.
+the mast should only be tilted forward when required to place fork arms under loads or move out from beneath loads that have
+just been placed or when placing a load on a stack.
+Do not exceed the recommended load limit of your lift truck. Each lift
+truck has a maximum load limit. The load limit is shown on the data
+plate of the lift truck.
+Keep the mast of the forklift in an upright position before inserting the forks into a pallet.
+Level the fork before inserting it into the pallet.
+insert the fork all the way under the load.
+Adjust the fork as wide as possible to fit the load and to provide a more even distribution
+of weight.
+Space the fork evenly from the centre stringer of the pallet to balance the load.
+do not protrude the fork past the back of a pallet when stacking in tight areas.
+ensure that the load is secured before moving. if it is not, stack the load again or strap
+the load to skid.
+ensure that loads on pallets are stable, neat, cross-tied if possible and evenly
+distributed.
+Remove damaged pallets from service.
+
+Raising the Load
+When a load is raised, the forklift is less stable.
+Check that the overhead clearance is adequate before raising loads.
+do not raise or lower the fork unless the forklift is stopped and braked.
+Lift loads straight up or tilt back slightly.
+do not lift a load that extends above the load backrest, unless no part of the load can possibly slide back
+toward the operator.
+Attend the controls of the forklift truck when a load is elevated. in other words, the operator must stay on
+the forklift when the load is in a raised position.
+Transporting a Load
+You should:
+travel at an appropriate speed,
+remember it takes time to stop a
+loaded forklift.
+do not turn on a slope, as you
+may over balance.
+do not stop abruptly as the load
+may shift.
+do not drive over uneven ground.
+
+Loading or Unloading Using a Forklift on Inclines
+You should:
+Keep forks pointed downhill when travelling without a load on a ramp.
+Keep forks pointed uphill when travelling with a load on a ramp.
+Stay clear of edges of docks or ramps. Have edges clearly marked.
+do not tow or push trucks with a forklift.
+
+Loading or Unloading Trucks
+do not operate forklifts inside vehicles for long periods without ventilation.
+Make sure that the dock plate is properly secured and can support the load before driving
+over it. (Load weight should be clearly marked.)
+drive carefully and slowly over the plate. do not spin wheels.
+What Should an Operator Avoid When Operating a Forklift?
+The operator should avoid:
+Trying to move or adjust any part of the load, the forklift or the surroundings when on the
+ forklift.
+Lifting a load that extends above the load backrest, unless no part of the load can possibly slide
+ back toward the operator.
+Allowing anyone but the operator to ride on the forklift.
+using pallets elevated by forklifts as an improvised working platform.
+Allowing anyone to stand or walk under the elevated part of any forklift, whether loaded or unloaded.
+
+using Attachments
+Jibs
+When using a jib attachment, you must:
+travel at low speed and turn slowly.
+Keep the load as low as possible and the jib as low as possible and on full back tilt.
+Allow for the weight of the jib by using the forklift as if it has a small load, even when there is no load on the jib.
+Always have the mast vertical or tilted back when lifting loads with a jib, never use forward tilt.
+ensure that the hook is directly centred over the load before lifting to ensure that stability is unaffected.
+Make sure that the lifting hook on the jib is able to swivel.
+use positive methods for securing the load (for example shackles, slings or lifting chains attached to the load so that it cannot
+slip).
+The Safe Working Load (SWL) will be marked at each hook position on a jib attachment.
+Slings and Lifting Rings
+You will need to note the following important considerations in using lifting slings and rings:
+Slings and lifting rings must have an equal lifting capacity (SWL).
+Slings should always be checked before use for damage.
+Make sure that shackles are in good condition. if there appears to be more than 10% wear, the shackle should be thrown away.
+
+Causes of Tipping
+The following situations can cause forklifts to tip over:
+driving fast
+turning sharply
+turning on sloping ground
+travelling with load raised
+working on uneven or sloping ground
+carrying an unevenly balanced load
+travelling across an incline
+braking too hard when turning
+flat or under inflated tyres.
+A forklift may tip forward if:
+it is overloaded
+the operator brakes too severely
+the mast tilt is used incorrectly
+the load is not positioned against the heel of the fork arms.
+
+Safety Facts
+You will need to understand the following important facts:
+The most common cause of death and injury in forklift accidents is when drivers attempt to jump from an overturning forklift.
+Often the driver is caught and crushed by the protective cage of the forklift or the forklift mast.
+Forklifts should be fitted with a seat belt and the driver should wear it while operating the forklift.
+Do not try to jump clear of an overturning forklift. The safest place is to remain inside the cabin.
+Passengers should never be carried on the fork arms or on the load. Passengers should only be carried in a purpose built cage
+firmly attached to the forks.
+A passenger should only be carried in the driving area if a second seat and footrest is fitted.
+The dynamic forces involved when a forklift travels at speed with a load, mean that small changes in direction or level of the
+forklift can cause the centre of balance to move and unbalance the forklift.
+When travelling with a load, travel at a safe speed with the load as low as possible.
+Stopping a forklift. It has been calculated that it takes about 1.2 m for each 5 kph to stop a forklift under emergency conditions.
+It takes about 0.75 seconds for a person to react to a danger. In this time a forklift travelling at 20 kph will travel a distance of 4.2
+m.
+A forklift travelling at 20 kph will require at least 9 metres to stop in an emergency situation.
+If a load is added to the forklift then the stopping distances will be greatly increased. Doubling the mass of the forklift will
+require twice the stopping distance.
